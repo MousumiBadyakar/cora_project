@@ -29,6 +29,8 @@ The trained model is exported to ONNX format and served through a FastAPI backen
 
 **[Launch Cora GCN Explorer](https://coraproject-lhcdsnqhvdtqupjdnvq4kx.streamlit.app/)**
 
+---
+
 ### Highlights
 
 - Graph-based node classification using a GCN.
