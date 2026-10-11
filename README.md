@@ -25,6 +25,10 @@ This project uses a **Graph Convolutional Network (GCN)** to classify scientific
 
 The trained model is exported to ONNX format and served through a FastAPI backend using ONNX Runtime. A Streamlit interface provides a user-facing application for interacting with the model.
 
+## 🚀 Live Demo
+
+**[Launch Cora GCN Explorer](https://coraproject-lhcdsnqhvdtqupjdnvq4kx.streamlit.app/)**
+
 ### Highlights
 
 - Graph-based node classification using a GCN.
